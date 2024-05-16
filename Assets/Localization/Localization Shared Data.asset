@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Localization Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Localization
+  m_TableCollectionNameGuidString: bc25f4740e108f44bb8c1eb57d23f738
+  m_Entries:
+  - m_Id: 87307206656
+    m_Key: Main Menu Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1596170321920
+    m_Key: Main Menu Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1601669054464
+    m_Key: Main Menu Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332426562387968
+    m_Key: Settings Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332638542512128
+    m_Key: Settings Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332731383431168
+    m_Key: Settings Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334167139827712
+    m_Key: Game Pause Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334296425054208
+    m_Key: Game Pause Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2268618899996672
+    m_Key: LevelSelection Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2268625841569792
+    m_Key: LevelSelection Level 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2268629398339584
+    m_Key: LevelSelection Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300577536884736
+    m_Key: Merchant Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300592632184832
+    m_Key: Merchant Price
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54730716250521600
+    m_Key: Items Deadly Bullet Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54730925080723456
+    m_Key: Items Deadly Bullet Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54730992927784960
+    m_Key: Items Diamond Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731055058010112
+    m_Key: Items Diamond Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731212877086720
+    m_Key: Items Fire Bullet Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731257827442688
+    m_Key: Items Fire Bullet Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731301146214400
+    m_Key: Items Grenade Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731305575399424
+    m_Key: Items Grenade Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731315272630272
+    m_Key: Items Hat Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731316564475904
+    m_Key: Items Hat Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731584978960384
+    m_Key: Items Heart Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731587575234560
+    m_Key: Items Heart Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731601319968768
+    m_Key: Items Lucky Coin Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731604780269568
+    m_Key: Items Lucky Coin Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731813748883456
+    m_Key: Items Poison Bullet Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731815418216448
+    m_Key: Items Poison Bullet Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731817091743744
+    m_Key: Items Potion Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731817796386816
+    m_Key: Items Potion Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54732022558113792
+    m_Key: Items Ring Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54732027020853248
+    m_Key: Items Ring Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54732161054031872
+    m_Key: Items Vines Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54732162765307904
+    m_Key: Items Vines Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54732164443029504
+    m_Key: Items Vortex Staff Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54732165067980800
+    m_Key: Items Vortex Staff Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54742503092011008
+    m_Key: Buy Button Sold
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5873334182933954584
+  references:
+    version: 2
+    RefIds:
+    - rid: 5873334182933954584
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1702649536390

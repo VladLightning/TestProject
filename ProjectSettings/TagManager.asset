@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Feet
+  - Trap
+  - Zombie
+  - Slime
+  - Coin
+  - SpecialBullet
+  - Box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - InteractWithPlayer
+  - AttackArea
+  - Ability
+  - Obstacle
+  - Ghost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2497072545
+    locked: 0
+  - name: Player
+    uniqueID: 1386125521
+    locked: 0
+  - name: Enemies
+    uniqueID: 4114550539
+    locked: 0

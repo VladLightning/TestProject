@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Localization_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: bc25f4740e108f44bb8c1eb57d23f738, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 87307206656
+    m_Localized: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1596170321920
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1601669054464
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332426562387968
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332638542512128
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332731383431168
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334167139827712
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334296425054208
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2268618899996672
+    m_Localized: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2268625841569792
+    m_Localized: Level 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2268629398339584
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300577536884736
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4300592632184832
+    m_Localized: 'Price:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54730716250521600
+    m_Localized: Deadly Bullet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54730925080723456
+    m_Localized: Chance to fire a bullet that kills instantly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54730992927784960
+    m_Localized: Diamond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731055058010112
+    m_Localized: Periodically grants invincibility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731212877086720
+    m_Localized: Fire Bullet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731257827442688
+    m_Localized: Sets enemies on fire and deals high damage over short time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731301146214400
+    m_Localized: Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731305575399424
+    m_Localized: Grants you a grenade throw ability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731315272630272
+    m_Localized: Hat of Swiftness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731316564475904
+    m_Localized: Increases movement speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731584978960384
+    m_Localized: Heart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731587575234560
+    m_Localized: Increases health limit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731601319968768
+    m_Localized: Lucky Coin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731604780269568
+    m_Localized: Increases the multiplier of coins you get
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731813748883456
+    m_Localized: Poison Bullet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731815418216448
+    m_Localized: Deals pereodical damage over longer duration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731817091743744
+    m_Localized: Potion of Healing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54731817796386816
+    m_Localized: Fully heals your character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54732022558113792
+    m_Localized: Ring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54732027020853248
+    m_Localized: Increases the damage dealt by the character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54732161054031872
+    m_Localized: Vines
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54732162765307904
+    m_Localized: Stops enemies from moving in its AoE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54732164443029504
+    m_Localized: Vortex Staff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54732165067980800
+    m_Localized: Pulls enemies into itself
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54742503092011008
+    m_Localized: Sold
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

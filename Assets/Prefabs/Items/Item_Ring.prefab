@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4682228719294900809
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5491797729566828429, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: itemIcon
+      value: 
+      objectReference: {fileID: 21300000, guid: ec3f5c9d06947e7458e9626551938feb, type: 3}
+    - target: {fileID: 5491797729566828429, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: itemName
+      value: Ring
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491797729566828429, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: itemPrice
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491797729566828429, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: itemDescription
+      value: Increases the damage dealt by the character
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491797729566828429, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: nameEntry.m_Key
+      value: Items Ring Name
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491797729566828429, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: descriptionEntry.m_Key
+      value: Items Ring Description
+      objectReference: {fileID: 0}
+    - target: {fileID: 5491797729566828429, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: localizationTable.m_TableCollectionName
+      value: Localization
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196834887752523992, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196834887752523992, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196834887752523992, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196834887752523992, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196834887752523992, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196834887752523992, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196834887752523992, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196834887752523992, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196834887752523992, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6196834887752523992, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6301230324848573942, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}
+      propertyPath: m_Name
+      value: Item_Ring
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dffbcc2ca3b59164082a9b4bdf8a4301, type: 3}

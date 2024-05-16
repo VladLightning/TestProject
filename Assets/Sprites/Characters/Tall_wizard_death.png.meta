@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 54f2bf90541dd2b41abb7da2d2ed9e39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -451036303041303033
+    second: Tall_wizard_death_0
+  - first:
+      213: -6553873999090093588
+    second: Tall_wizard_death_1
+  - first:
+      213: -1323463715458672481
+    second: Tall_wizard_death_2
+  - first:
+      213: 3362392574926799268
+    second: Tall_wizard_death_3
+  - first:
+      213: 7916991687771894837
+    second: Tall_wizard_death_4
+  - first:
+      213: -9203755136900595313
+    second: Tall_wizard_death_5
+  - first:
+      213: 1880678091548165487
+    second: Tall_wizard_death_6
+  - first:
+      213: -5513177735268552245
+    second: Tall_wizard_death_7
+  - first:
+      213: 3591228153704175661
+    second: Tall_wizard_death_8
+  - first:
+      213: 1922624700738750743
+    second: Tall_wizard_death_9
+  - first:
+      213: 5279232454548561177
+    second: Tall_wizard_death_10
+  - first:
+      213: -9183463517295974967
+    second: Tall_wizard_death_11
+  - first:
+      213: -6400322145911807944
+    second: Tall_wizard_death_12
+  - first:
+      213: -3415619502803487488
+    second: Tall_wizard_death_13
+  - first:
+      213: -7795827782553155717
+    second: Tall_wizard_death_14
+  - first:
+      213: 5614119978112566414
+    second: Tall_wizard_death_15
+  - first:
+      213: 3593567470877093266
+    second: Tall_wizard_death_16
+  - first:
+      213: 2570461095677199751
+    second: Tall_wizard_death_17
+  - first:
+      213: -1613881513053376557
+    second: Tall_wizard_death_18
+  - first:
+      213: -8113638174106608160
+    second: Tall_wizard_death_19
+  - first:
+      213: -2977216463159258618
+    second: Tall_wizard_death_20
+  - first:
+      213: 954421623671614277
+    second: Tall_wizard_death_21
+  - first:
+      213: -7812857484433048717
+    second: Tall_wizard_death_22
+  - first:
+      213: -510916484732579572
+    second: Tall_wizard_death_23
+  - first:
+      213: 3749750297608733971
+    second: Tall_wizard_death_24
+  - first:
+      213: 6877115594730440297
+    second: Tall_wizard_death_25
+  - first:
+      213: -4057404166136576351
+    second: Tall_wizard_death_26
+  - first:
+      213: 2965878044584715960
+    second: Tall_wizard_death_27
+  - first:
+      213: 6306759603810760006
+    second: Tall_wizard_death_28
+  - first:
+      213: 5077026824339248735
+    second: Tall_wizard_death_29
+  - first:
+      213: 7328178662795174835
+    second: Tall_wizard_death_30
+  - first:
+      213: -6195721774065757696
+    second: Tall_wizard_death_31
+  - first:
+      213: -5377942780221936999
+    second: Tall_wizard_death_32
+  - first:
+      213: 8756471878084756066
+    second: Tall_wizard_death_33
+  - first:
+      213: 7390712808332550429
+    second: Tall_wizard_death_34
+  - first:
+      213: 4872744646566399369
+    second: Tall_wizard_death_35
+  - first:
+      213: 829170288316042581
+    second: Tall_wizard_death_36
+  - first:
+      213: -3118513989231201185
+    second: Tall_wizard_death_37
+  - first:
+      213: 4348100336194112173
+    second: Tall_wizard_death_38
+  - first:
+      213: 1268134961057260149
+    second: Tall_wizard_death_39
+  - first:
+      213: -4249968798686188879
+    second: Tall_wizard_death_40
+  - first:
+      213: 9060507102602822205
+    second: Tall_wizard_death_41
+  - first:
+      213: 6112940623943844109
+    second: Tall_wizard_death_42
+  - first:
+      213: -4986883675457639655
+    second: Tall_wizard_death_43
+  - first:
+      213: 7397090125121993248
+    second: Tall_wizard_death_44
+  - first:
+      213: -895580869571749983
+    second: Tall_wizard_death_45
+  - first:
+      213: -7641772639813659810
+    second: Tall_wizard_death_46
+  - first:
+      213: 8999000163311101440
+    second: Tall_wizard_death_47
+  - first:
+      213: -1303011818770687307
+    second: Tall_wizard_death_48
+  - first:
+      213: 4032454617500087083
+    second: Tall_wizard_death_49
+  - first:
+      213: 6140341476863212301
+    second: Tall_wizard_death_50
+  - first:
+      213: 282951606566427913
+    second: Tall_wizard_death_51
+  - first:
+      213: -3729991604746342436
+    second: Tall_wizard_death_52
+  - first:
+      213: -4753145651066398255
+    second: Tall_wizard_death_53
+  - first:
+      213: -2889524567525160094
+    second: Tall_wizard_death_54
+  - first:
+      213: -6741305689271977362
+    second: Tall_wizard_death_55
+  - first:
+      213: -3659712582246096231
+    second: Tall_wizard_death_56
+  - first:
+      213: 1220558283253487660
+    second: Tall_wizard_death_57
+  - first:
+      213: 8837657515308200569
+    second: Tall_wizard_death_58
+  - first:
+      213: -1157480997292117498
+    second: Tall_wizard_death_59
+  - first:
+      213: -8738610844897467081
+    second: Tall_wizard_death_60
+  - first:
+      213: 7531804093224320040
+    second: Tall_wizard_death_61
+  - first:
+      213: 758780219630884318
+    second: Tall_wizard_death_62
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tall_wizard_death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 660
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319050d2ed6a0cf43889e131be596fc3
+      internalID: -119314571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_wizard_death_1
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 660
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3648f7e5ac040f244985b8c75e9ddfc8
+      internalID: -1288111684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_wizard_death_2
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 660
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27efc222b4e877f4888e9f99b7cea220
+      internalID: -372213190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_wizard_death_3
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 0
+        width: 660
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4b96fe0bb277e4fafbb6b2f71b0d7f
+      internalID: 25177459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_wizard_death_4
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 660
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b4b7466bebee94ba9d04cecce9c7fc
+      internalID: -1987680669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_wizard_death_5
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 660
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3350d22875c321f4680e32eedb8ab048
+      internalID: -1482322253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_wizard_death_6
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 0
+        width: 660
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d43e6890f8391b4c9ffbd71cc26f40e
+      internalID: 570770013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0b785d0acec6ff24baf1cf3dad642417
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tall_wizard_death_0: -119314571
+      Tall_wizard_death_1: -1288111684
+      Tall_wizard_death_2: -372213190
+      Tall_wizard_death_3: 25177459
+      Tall_wizard_death_4: -1987680669
+      Tall_wizard_death_5: -1482322253
+      Tall_wizard_death_6: 570770013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
