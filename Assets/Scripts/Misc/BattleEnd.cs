@@ -6,7 +6,7 @@ public class BattleEnd : MonoBehaviour
 
     public MerchantSpawn merchantSpawn;
     public BackgroundMusic backgroundMusic;
-    public GameObject objectToDeactivate;
+    public GameObject[] objectsToDeactivate;
 
     public void SetEnemyAmount(int enemyCount)
     {
@@ -30,7 +30,10 @@ public class BattleEnd : MonoBehaviour
     public void Win()
     {
         backgroundMusic.SetMusicToDefault();
-        objectToDeactivate.SetActive(false);
+        for(int i = 0; i < objectsToDeactivate.Length; i++)
+        {
+            objectsToDeactivate[i].SetActive(false);
+        }
         merchantSpawn.StartTrySpawnMerchant(transform.position);
     }
 }
