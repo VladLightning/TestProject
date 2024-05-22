@@ -5198,7 +5198,7 @@ PrefabInstance:
       objectReference: {fileID: 1676642244}
     - target: {fileID: 5684473429790536704, guid: eb7b4e8a3ecf8df46a1d75b4b3092787, type: 3}
       propertyPath: m_SortingOrder
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7320121761478412088, guid: eb7b4e8a3ecf8df46a1d75b4b3092787, type: 3}
       propertyPath: target
@@ -60252,7 +60252,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7412657680111585143, guid: 546f253c77b9dc74eb3de80527221e46, type: 3}
       propertyPath: m_SortingOrder
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7637266282432910223, guid: 546f253c77b9dc74eb3de80527221e46, type: 3}
       propertyPath: health
@@ -60644,7 +60644,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 822562372633099689, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 9.16e-43
+      value: 9.18e-43
       objectReference: {fileID: 0}
     - target: {fileID: 822562372633099689, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalRotation.y
@@ -60708,15 +60708,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5073311050079811554, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -37.190002
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5073311050079811554, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 18.75
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5073311050079811554, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.4315e-41
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5073311050079811554, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalRotation.w
