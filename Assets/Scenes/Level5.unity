@@ -40717,7 +40717,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 822562372633099689, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 8.28e-43
+      value: 8.3e-43
       objectReference: {fileID: 0}
     - target: {fileID: 822562372633099689, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalRotation.y
@@ -40874,6 +40874,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2680150045502858838, guid: 12f3ced59094f1a4f9c4186cd9107a47, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 8420275999576236877}
     - target: {fileID: 2826797852502841533, guid: 12f3ced59094f1a4f9c4186cd9107a47, type: 3}
       propertyPath: m_text
       value: 0
