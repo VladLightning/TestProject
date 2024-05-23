@@ -10,6 +10,11 @@ public class SpecialSpawn : MonoBehaviour
     public bool isActive;
     public float spawnDelay;
 
+    private void OnDisable()
+    {
+        Destroy(gameObject);
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player") && !isActive)
