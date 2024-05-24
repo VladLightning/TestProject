@@ -60644,7 +60644,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 822562372633099689, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 9.19e-43
+      value: 9.2e-43
       objectReference: {fileID: 0}
     - target: {fileID: 822562372633099689, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalRotation.y
@@ -61070,7 +61070,7 @@ PrefabInstance:
       objectReference: {fileID: 591745362}
     - target: {fileID: 3827688722680933206, guid: 7bb7f1fb576fc734b8c4a544df6afc20, type: 3}
       propertyPath: maxHealth
-      value: 10
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 3827688722680933206, guid: 7bb7f1fb576fc734b8c4a544df6afc20, type: 3}
       propertyPath: coinPickUp
