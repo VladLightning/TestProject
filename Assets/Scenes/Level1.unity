@@ -1935,6 +1935,10 @@ PrefabInstance:
       propertyPath: startSpawnChance
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 1867184221321833564, guid: 094fc68dd1bf742499d927bb31079420, type: 3}
+      propertyPath: currentSpawnChance
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2171921956502340289, guid: 094fc68dd1bf742499d927bb31079420, type: 3}
       propertyPath: m_LocalPosition.x
       value: 19.837976
@@ -5077,7 +5081,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1946499537339070609, guid: f521e845f46ca3f44a67223cb5468963, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.5
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 1946499537339070609, guid: f521e845f46ca3f44a67223cb5468963, type: 3}
       propertyPath: m_LocalScale.y
@@ -52624,7 +52628,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 822562372633099689, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 8.55e-43
+      value: 8.58e-43
       objectReference: {fileID: 0}
     - target: {fileID: 822562372633099689, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalRotation.y

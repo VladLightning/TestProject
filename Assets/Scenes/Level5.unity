@@ -573,7 +573,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 434233131810943983, guid: fd954a85f7caed648916ece5865c8d2d, type: 3}
       propertyPath: spawnDelay
-      value: 3
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 434233131810943983, guid: fd954a85f7caed648916ece5865c8d2d, type: 3}
       propertyPath: spawnLimit
@@ -2143,7 +2143,7 @@ PrefabInstance:
       objectReference: {fileID: 1453714260}
     - target: {fileID: 1867184221321833564, guid: 094fc68dd1bf742499d927bb31079420, type: 3}
       propertyPath: startSpawnChance
-      value: 0.6
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2171921956502340289, guid: 094fc68dd1bf742499d927bb31079420, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3719,6 +3719,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4066041802079289146, guid: 938ccee94a65875419ccbd62bb7eb47e, type: 3}
+      propertyPath: m_MaskInteraction
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6725406400478401266, guid: 938ccee94a65875419ccbd62bb7eb47e, type: 3}
       propertyPath: maxHealth
       value: 30
@@ -3933,6 +3937,18 @@ PrefabInstance:
     - target: {fileID: 2478954979455817501, guid: 7e3b8ec79f4b4034ca5845972045bce8, type: 3}
       propertyPath: castInterval
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2832883638069492651, guid: 7e3b8ec79f4b4034ca5845972045bce8, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2832883638069492651, guid: 7e3b8ec79f4b4034ca5845972045bce8, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -180416757
+      objectReference: {fileID: 0}
+    - target: {fileID: 2832883638069492651, guid: 7e3b8ec79f4b4034ca5845972045bce8, type: 3}
+      propertyPath: m_MaskInteraction
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3301693256457197902, guid: 7e3b8ec79f4b4034ca5845972045bce8, type: 3}
       propertyPath: target
@@ -43380,7 +43396,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 822562372633099689, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 8.58e-43
+      value: 8.63e-43
       objectReference: {fileID: 0}
     - target: {fileID: 822562372633099689, guid: cd54c1da19225584e8c046ae7048a2f9, type: 3}
       propertyPath: m_LocalRotation.y

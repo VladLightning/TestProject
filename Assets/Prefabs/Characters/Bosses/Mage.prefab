@@ -82,7 +82,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: 4723107735738678597, guid: 6fc66c021eec74942b4e71a3fde4dc04, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -352,7 +352,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0be0456f8f1492a43b8dd42b56002c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawner: {fileID: 0}
   boxReceiver: {fileID: 0}
   projectileEmitter: {fileID: 0}
   target: {fileID: 0}
@@ -360,6 +359,7 @@ MonoBehaviour:
   animationLocked: 0
   mageState: 0
   currentState: 0
+  spawner: {fileID: 0}
   followTarget: {fileID: 0}
   bossHealth: {fileID: 0}
   obstaclesSpawn: {fileID: 8531293815677098947}

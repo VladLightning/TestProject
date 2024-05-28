@@ -42,6 +42,7 @@ public class ColdRoom : MonoBehaviour
 
         PostProcessVolume volume = collision.GetComponent<PlayerStatuses>().GetCamera().GetComponents<PostProcessVolume>()[1];
         volume.profile.TryGetSettings(out Vignette vignette);
+        volume.priority = -2;
         vignette.intensity.value = 0;
 
         collision.transform.position = roomTeleport.transform.position;
